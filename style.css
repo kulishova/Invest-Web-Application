@@ -29,7 +29,7 @@
 body {
     position: relative;
     display: flex;
-    height: 100vh;
+    height: 100%;
     font-family: var(--font);     
     color: var(--color_main);   
 }
